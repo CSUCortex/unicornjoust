@@ -1,0 +1,13 @@
+- [x] Extract measurable outcomes, project evidence, and technical domains from the resume.
+- [x] Map resume evidence to the Technical Customer Solutions Manager role requirements.
+- [x] Define portfolio sections that foreground customer-facing AI problem solving and technical-to-business translation.
+- [x] Write evidence-based project narratives without inventing projects, metrics, or testimonials.
+- [x] Build and verify the updated responsive portfolio across desktop and mobile.
+- [ ] Remove any visible Manus platform branding from the public portfolio presentation.
+- [ ] Reassign the portfolio to stellarmadic.manus.space only after the existing maintenance-bound site record is safely released or restored.
+- [x] Provide the live replacement address for the immediate stellarmadic.com repointing path.
+- [x] Remove the Field note, hero-stat, Technical Range, and Futures Literate sections requested in the review screenshots.
+- [x] Replace the Builder Lab list with BracketSats, MorphicDesign, CRM, Email/Database Parser, SaddleSlot, Pinetree Connect, CuteCryptoNews, and ContractHireAI; retain no live project links.
+- [x] Replace the hero lead statement with the approved human-centered productivity message.
+- [x] Replace the hero with the approved short human-centered headline and supporting line.
+- [ ] Save a publish-ready checkpoint and document the custom-domain handoff.
