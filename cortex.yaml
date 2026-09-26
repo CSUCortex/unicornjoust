@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Unicornjoust
+  x-cortex-git:
+    github:
+      alias: cortex
+      repository: CSUCortex/unicornjoust
+  x-cortex-tag: csucortex-unicornjoust
+  x-cortex-type: service
